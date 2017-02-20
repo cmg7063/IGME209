@@ -1,0 +1,13 @@
+﻿  wk3funcs.cpp
+  main.cpp
+z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(21): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(21): note: consider using '%zd' in the format string
+z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(34): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(34): note: consider using '%zd' in the format string
+z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(42): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(42): note: consider using '%zd' in the format string
+z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::size_t'
+  z:\igme 209\dsa1wk3\dsa1wk3\main.cpp(44): note: consider using '%zd' in the format string
+  Generating Code...
+  DSA1wk3.vcxproj -> Z:\IGME 209\DSA1wk3\x64\Debug\DSA1wk3.exe
+  DSA1wk3.vcxproj -> Z:\IGME 209\DSA1wk3\x64\Debug\DSA1wk3.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\corinne green\desktop\209\dynamicarraus\dynamicarraus\main.cpp(34): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\corinne green\desktop\209\dynamicarraus\dynamicarraus\main.cpp(34): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+c:\users\corinne green\desktop\209\dynamicarraus\dynamicarraus\main.cpp(35): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\corinne green\desktop\209\dynamicarraus\dynamicarraus\main.cpp(35): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+c:\users\corinne green\desktop\209\dynamicarraus\dynamicarraus\main.cpp(11): warning C4172: returning address of local variable or temporary: myArr
+  dynamicArraus.vcxproj -> C:\Users\Corinne Green\Desktop\209\dynamicArraus\x64\Debug\dynamicArraus.exe
+  dynamicArraus.vcxproj -> C:\Users\Corinne Green\Desktop\209\dynamicArraus\x64\Debug\dynamicArraus.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\corinne green\desktop\209\hw1_hangman\hw1_hangman\main.cpp(25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HW1_hangman.vcxproj -> C:\Users\Corinne Green\Desktop\209\HW1_hangman\x64\Debug\HW1_hangman.exe
+  HW1_hangman.vcxproj -> C:\Users\Corinne Green\Desktop\209\HW1_hangman\x64\Debug\HW1_hangman.pdb (Full PDB)

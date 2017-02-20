@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\corinne green\desktop\pointersarrays\pointersarrays\main.cpp(13): warning C4715: 'getLengthArray': not all control paths return a value
+c:\users\corinne green\desktop\pointersarrays\pointersarrays\main.cpp(27): warning C4715: 'getLengthPointer': not all control paths return a value
+  pointersArrays.vcxproj -> C:\Users\Corinne Green\Desktop\pointersArrays\x64\Debug\pointersArrays.exe
+  pointersArrays.vcxproj -> C:\Users\Corinne Green\Desktop\pointersArrays\x64\Debug\pointersArrays.pdb (Full PDB)
